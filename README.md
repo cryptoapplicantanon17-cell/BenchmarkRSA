@@ -8,7 +8,7 @@ To reproduce our experiments or test the baseline software implementation within
 
 1. **Locate Target Files:** Identify the specific source files provided in this directory (e.g., `ComplexCalcApplet.java`).
 2. **Replace Project Files:** Copy and paste these files into the corresponding directories of your active repository setup, replacing the existing files that share the exact same names.
-3. **⚠️ CRITICAL SAFETY WARNING:** Always create a secure backup of your original project files (`.java`, configuration scripts, etc.) before performing this replacement. This ensures you can safely restore your previous operational environment (such as the successful FLRSA applet configuration) after running the baseline tests.
+3. **⚠️ CRITICAL SAFETY WARNING:** Always create a secure backup of your original project files (`.java`, configuration scripts, etc.) before performing this replacement. This ensures you can safely restore your previous operational environment (such as the successful FLRSA applet configuration) after running the baseline tests (and don(t create backup under folder JCMATHLIB otherwise compîlation errors appear).
 
 ---
 
