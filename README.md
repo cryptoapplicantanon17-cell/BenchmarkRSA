@@ -22,7 +22,7 @@ As detailed in the evaluation section of our paper, this computational bottlenec
 
 ### Included Verification Screenshot
 We have included the formal execution trace screenshot directly within this directory:
-* **Filename:** `execution_trace_7min.png` *(or insert your exact filename here)*
+* **Filename:** `ScreenShotRSAstandard.jpg` 
 
 This screenshot provides definitive empirical proof of the software emulation overhead, demonstrating that the smart card required **more than 7 minutes** to complete a single standard 1024-bit RSA decryption sequence. 
 
